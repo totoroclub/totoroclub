@@ -1,0 +1,29 @@
+﻿p.description, p.date, .entry a.more-link,
+#entry_content p.tags span, .comment-meta {
+	font-family: "Palatino Linotype";
+	font-size:14px !important;
+}
+
+#entry_content .sticky .entry {
+	padding-bottom: 1px;
+}
+
+.entry a.more-link {
+	margin-top: -.5em;
+}
+
+.commenttext {
+	margin-top: 1.5em;
+}
+
+.monthly {
+	padding-top: 1.5em;
+}
+#left-area{
+	_width:140px;
+}
+#main_nav {
+	_margin-left: 0px;
+	_margin-top: -20px;
+	*margin-top: -20px;
+}
